@@ -19,7 +19,7 @@
     },
     "jbrowse": {
       "plugin": {
-        "name": "CustomFeatureDisplay"
+        "name": "CustomFeaturePlugin"
       }
     }
   },
